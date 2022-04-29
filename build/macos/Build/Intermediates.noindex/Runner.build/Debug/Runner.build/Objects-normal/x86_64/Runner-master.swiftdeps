@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "c4dfddf03511dd2ad3594563f40db9ba58ab950ec70a68e67e005e4bf7b0b81f"
+build_start_time: [1651267495, 335945129]
+build_end_time: [1651267499, 627243041]
+inputs:
+  "/Users/abhavgoel/Mentain/macos/Flutter/GeneratedPluginRegistrant.swift": [1651267462, 846296310]
+  "/Users/abhavgoel/Mentain/macos/Runner/AppDelegate.swift": [1648441804, 0]
+  "/Users/abhavgoel/Mentain/macos/Runner/MainFlutterWindow.swift": [1648441804, 0]
