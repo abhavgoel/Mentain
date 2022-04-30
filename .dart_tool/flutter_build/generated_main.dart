@@ -5,10 +5,10 @@
 
 // @dart = 2.2
 
-// When `package:Helm/main.dart` defines `main`, that definition is shadowed by the definition below.
-export 'package:Helm/main.dart';
+// When `package:Mentain/main.dart` defines `main`, that definition is shadowed by the definition below.
+export 'package:Mentain/main.dart';
 
-import 'package:Helm/main.dart' as entrypoint;
+import 'package:Mentain/main.dart' as entrypoint;
 import 'dart:io'; // flutter_ignore: dart_io_import.
 import 'package:path_provider_android/path_provider_android.dart';
 import 'package:path_provider_ios/path_provider_ios.dart';
